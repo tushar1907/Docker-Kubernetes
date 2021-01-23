@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/demos":{"guestpath":"/home/vagrant/demos","hostpath":"D:/Work/Docker_Kubernetes/Docker_Swarm_01-23-2021/cluster/cluster","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Work/Docker_Kubernetes/Docker_Swarm_01-23-2021/cluster/cluster","disabled":false,"__vagrantfile":true}}}
